@@ -73,7 +73,7 @@ header {
     background: #ccc;
     height: 90px;
     position: fixed;
-    box-shadow: 3px 3px 5px 90px rgba(255, 255, 255, 0.7);
+    box-shadow: 3px 3px 5px 80px rgba(255, 255, 255, 0.7)
     top: 0;
     width: 100%;
     z-index: 1;
